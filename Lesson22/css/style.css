@@ -1,0 +1,53 @@
+body {
+  background-color: #677DB7;
+  color: #fff;
+  font-family: 'Courier New';
+  padding: 20px;
+  border: 20px solid white;
+  width: 50%;
+  margin: 20px auto;
+}
+
+h1 {
+  color: #b7e5d6;
+}
+
+h2 {
+  letter-spacing: 0.08em;
+}
+
+#quote {
+  font-size: 1.4em;
+  word-spacing: 1.1em;
+}
+
+#code-of-conduct {
+  line-height: 1.4em;
+}
+
+/* pixels */
+h1 {
+  font-size: 48px;
+}
+
+p {
+  font-size: 18px;
+}
+
+/* ems */
+h1 {
+  font-size: 3em;
+}
+
+p {
+  font-size: 1.125em;
+}
+
+/* percentages */
+h1 {
+  font-size: 300%;
+}
+
+p {
+  font-size: 112.5%;
+}

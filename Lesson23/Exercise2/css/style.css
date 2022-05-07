@@ -1,0 +1,9 @@
+li {
+  list-style: none;
+  font-family: Courier New, monospace;
+  font-size: 1.5em;
+}
+
+a {
+  text-decoration: none;
+}

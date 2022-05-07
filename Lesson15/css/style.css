@@ -1,0 +1,26 @@
+body {
+  background-color: #F5E3E7;
+  color: #4A262F;
+  font-family: Futura;
+  padding: 20px;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+article {
+  width: 60%;
+  margin: 0px auto;
+}
+
+hr {
+  border-color: #4A262F;
+  border-width: 1px;
+}
+
+.address {
+  font-style: italic;
+  font-size: 12px;
+  margin-top: -15px;
+}
